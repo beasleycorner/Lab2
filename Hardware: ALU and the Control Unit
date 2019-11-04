@@ -1,0 +1,6 @@
+A. HARDWARE: ALU and the Control Unit
+
+ALU and CU both are the two basic components of a CPU (Central Processing Unit) in a computer system. 
+ALU stands for the Arithmetic Logical Unit whereas CU stands for the Control Unit. ALU circuit of the CPU 
+deal with all the logical and mathematical operations that are performed by CPU. It is responsible for 
+answering the questions and providing the output result of the input queries.
