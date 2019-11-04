@@ -16,8 +16,7 @@ The faster the RAM, the faster the processing speed. With RAM, you increase the 
 ii. What is the difference between 64 and 32 bit paths?
 A 64-bit processor is more capable than a 32-bit processor, because it can handle more data at once. A 64-bit processor is capable of storing more computational values, including memory addresses, which means it’s able to access over four billion times the physical memory of a 32-bit processor.
 
-HARDWARE: ALU and the Control Unit
-ALU and CU both are the two basic components of a CPU (Central Processing Unit) in a computer system. ALU stands for the Arithmetic Logical Unit whereas CU stands for the Control Unit. ALU circuit of the CPU deal with all the logical and mathematical operations that are performed by CPU. It is responsible for answering the questions and providing the output result of the input queries.
+
 
 
 
