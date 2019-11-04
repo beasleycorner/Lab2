@@ -18,3 +18,5 @@ A 64-bit processor is more capable than a 32-bit processor, because it can handl
 
 
 
+
+
