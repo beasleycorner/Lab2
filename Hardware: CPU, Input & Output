@@ -1,0 +1,10 @@
+HARDWARE: CPU Input & Output
+
+The movies states that all input, store, process and output information. Some examples 
+keyboard, mouse, video, microphone all input information.
+The CPU then processes the info and converts it to binaryand then into memory.
+Output can be a monitor, a sound a video, and robotic arm, or a cutting device.
+With a self check out the input is the item scanned. The PLU. The CPU is the cash register
+or UScan machine. The output is the cost displayed. You then input your credit card info which
+is scanned into the CPU again your info deduted from your card and the item paid for all done in binary
+and then output is the receipt.
