@@ -1,0 +1,12 @@
+Explain what is meant by a truth table.
+
+A truth table is a logically-based mathematical table that illustrates the possible 
+outcomes of a something. The truth table contains the truth values that 
+would occur of a given scenario. The table helps you see whether an argument is logical or not.
+The rows of a basic truth table contain the Boolean logic true or false values, 
+while the columns list the premises of a scenario as well as the conclusion. 
+A simple truth table contains lists of the valid statement and its negation.
+
+What is NAND and AND gate?
+A NAND Gate is a logical gate which is the opposite of an AND logic gate. 
+It is a combination of AND and NOT gates and is a commonly used logic gate. 
